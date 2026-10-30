@@ -1,0 +1,78 @@
+"OriginalPath","Decision","SelectedPath"
+"driver.cpp","Omitted: exact duplicate",
+"2\2\Source.cpp","Selected","practice-and-drafts/hollow-rectangle-draft/hollow-rectangle-draft.cpp"
+"5\5\Source.cpp","Omitted: empty",
+"assignment10\assignment10\datacache.cpp","Selected","computer-architecture/data-cache-simulator/data-cache-simulator.cpp"
+"assignment10\assignment10\Source.cpp","Omitted: alternate version",
+"classexercise\classexercise\sumn.cpp","Selected","practice-and-drafts/bubble-sort-starter/bubble-sort-starter.cpp"
+"HHomwork1\HHomwork1\q1.cpp","Omitted: alternate version",
+"HHomwork1\HHomwork1\q2.cpp","Selected","01-health-digits-and-records/reverse-digits-and-sum/reverse-digits-and-sum.cpp"
+"homework 1 q2\homework 1 q2\Q2.cpp","Omitted: alternate version",
+"homework 2 q2\homework 2 q2\hwq2.cpp","Omitted: alternate version",
+"homework 3\q1.cpp","Selected","03-sequences-loans-and-calendars/euler-number-approximation/euler-number-approximation.cpp"
+"homework 3 bonus\homework 3 bonus\bonus1.cpp","Selected","03-sequences-loans-and-calendars/car-loan-apr-estimator/car-loan-apr-estimator.cpp"
+"homework 3 q 3\homework 3 q 3\q3.cpp","Selected","03-sequences-loans-and-calendars/gcd-and-lcm/gcd-and-lcm.cpp"
+"homework 3 q2\homework 3 q2\q2.cpp","Selected","03-sequences-loans-and-calendars/fibonacci-sequence/fibonacci-sequence.cpp"
+"homework 3 q4\homework 3 q4\q4\.cpp","Omitted: exact duplicate",
+"homework 3 q4\homework 3 q4\q4\q4.cpp","Selected","03-sequences-loans-and-calendars/pascal-triangle/pascal-triangle.cpp"
+"homework1\homework1\question1.cpp","Selected","01-health-digits-and-records/bmi-and-healthy-weight/bmi-and-healthy-weight.cpp"
+"homework1\homework1\Source.cpp","Omitted: exact duplicate",
+"homework1\homework1\Source1.cpp","Omitted: alternate version",
+"homework2\homework2\Q1.cpp","Selected","02-number-searches-simulation-and-measurement/prime-number-search/prime-number-search.cpp"
+"homework2\homework2\Q2.cpp","Selected","02-number-searches-simulation-and-measurement/armstrong-number-search/armstrong-number-search.cpp"
+"homework4 q1\homework4 q1\q1.cpp","Selected","04-arrays-text-and-polynomials/array-median/array-median.cpp"
+"homework4 q1\homework4 q1\Source.cpp","Omitted: exact duplicate",
+"HOMEWORK_1\HOMEWORK_1\HOMEWORK_1.cpp","Omitted: exact duplicate",
+"HOMEWORK_1\HOMEWORK_1\question1.cpp","Omitted: alternate version",
+"hw 3 q1\hw 3 q1\q1.cpp","Omitted: exact duplicate",
+"hw 3 q1\hw 3 q1\Source.cpp","Omitted: exact duplicate",
+"hw 3 q1\hw 3 q1\Source1.cpp","Omitted: alternate version",
+"HW1\HW1\Source.cpp","Omitted: empty",
+"hw12026\hw12026\driver.cpp","Selected","01-health-digits-and-records/student-record-validation/student-record-validation.cpp"
+"hw12026\hw12026\Source.cpp","Omitted: exact duplicate",
+"HW1_3330\HW1_3330\driver.cpp","Selected","01-health-digits-and-records/ascii-house-and-geometry/house-demo.cpp"
+"HW1_3330\HW1_3330\house.cpp","Selected","01-health-digits-and-records/ascii-house-and-geometry/house.cpp"
+"HW1_3330\HW1_3330\house.h","Selected","01-health-digits-and-records/ascii-house-and-geometry/house.h"
+"hw2 bonus q2\hw2 bonus q2\bonus2.cpp","Selected","02-number-searches-simulation-and-measurement/random-walk-simulation/random-walk-simulation.cpp"
+"hw2cop33302026\hw2cop33302026\Source.cpp","Omitted: empty",
+"hw2cop33302026\hw2cop33302026\sphere.cpp","Selected","02-number-searches-simulation-and-measurement/sphere-geometry-and-colors/sphere.cpp"
+"hw2cop33302026\hw2cop33302026\sphere.h","Selected","02-number-searches-simulation-and-measurement/sphere-geometry-and-colors/sphere.h"
+"hw2_2026\hw2_2026\sphere.cpp","Omitted: alternate version",
+"hw2_2026\hw2_2026\sphere.h","Omitted: alternate version",
+"hw2_3330\hw2_3330\maintemp.cpp","Selected","02-number-searches-simulation-and-measurement/temperature-conversion/temperature-demo.cpp"
+"hw2_3330\hw2_3330\temperature.cpp","Selected","02-number-searches-simulation-and-measurement/temperature-conversion/temperature.cpp"
+"hw2_3330\hw2_3330\temperature.h","Selected","02-number-searches-simulation-and-measurement/temperature-conversion/temperature.h"
+"hw3_2026\hw3_2026\date.cpp","Selected","03-sequences-loans-and-calendars/date-validation-and-calendar/date.cpp"
+"hw3_2026\hw3_2026\date.h","Selected","03-sequences-loans-and-calendars/date-validation-and-calendar/date.h"
+"hw3_2026\hw3_2026\driver-4.cpp","Selected","03-sequences-loans-and-calendars/date-validation-and-calendar/calendar-demo.cpp"
+"hw4 bonus\hw4 bonus\bonus1.cpp","Selected","04-arrays-text-and-polynomials/array-subset-comparison/array-subset-comparison.cpp"
+"hw4 q2\hw4 q2\q2.cpp","Selected","04-arrays-text-and-polynomials/array-right-rotation/array-right-rotation.cpp"
+"hw4 q3\hw4 q3\q3.cpp","Selected","04-arrays-text-and-polynomials/reverse-sentence-word-order/reverse-sentence-word-order.cpp"
+"hw4_2026\hw4_2026\driver-5.cpp","Selected","04-arrays-text-and-polynomials/polynomial-arithmetic/polynomial-demo.cpp"
+"hw4_2026\hw4_2026\polynomial.cpp","Selected","04-arrays-text-and-polynomials/polynomial-arithmetic/polynomial.cpp"
+"hw4_2026\hw4_2026\Polynomial.h","Selected","04-arrays-text-and-polynomials/polynomial-arithmetic/Polynomial.h"
+"hw5bonus\hw5bonus\bonus1.cpp","Selected","05-matrices-big-integers-and-neural-networks/matrix-multiplication/matrix-multiplication.cpp"
+"hw5q1\hw5q1\q1.cpp","Selected","05-matrices-big-integers-and-neural-networks/matrix-transpose/matrix-transpose.cpp"
+"hw5q2\hw5q2\q2.cpp","Selected","05-matrices-big-integers-and-neural-networks/sort-and-merge-arrays/sort-and-merge-arrays.cpp"
+"hw5q3\hw5q3\q3.cpp","Selected","05-matrices-big-integers-and-neural-networks/large-integer-multiplication/large-integer-multiplication.cpp"
+"hw5_2026\hw5_2026\Block.cpp","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/Block.cpp"
+"hw5_2026\hw5_2026\Block.h","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/Block.h"
+"hw5_2026\hw5_2026\LinearLayer.cpp","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/LinearLayer.cpp"
+"hw5_2026\hw5_2026\LinearLayer.h","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/LinearLayer.h"
+"hw5_2026\hw5_2026\Module.cpp","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/Module.cpp"
+"hw5_2026\hw5_2026\Module.h","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/Module.h"
+"hw5_2026\hw5_2026\NeuralNetwork.cpp","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/NeuralNetwork.cpp"
+"hw5_2026\hw5_2026\NeuralNetwork.h","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/NeuralNetwork.h"
+"hw5_2026\hw5_2026\ReLUActivation.cpp","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/ReLUActivation.cpp"
+"hw5_2026\hw5_2026\ReLUActivation.h","Selected","05-matrices-big-integers-and-neural-networks/neural-network-forward-pass/ReLUActivation.h"
+"hw6q1\hw6q1\q1.cpp","Selected","06-queues-word-counts-and-stacks/linked-list-queue/linked-list-queue.cpp"
+"hw6q2\hw6q2\q2.cpp","Selected","06-queues-word-counts-and-stacks/word-frequency-counter/word-frequency-counter.cpp"
+"hw6_2026\hw6_2026\driver-7.cpp","Selected","06-queues-word-counts-and-stacks/stack-and-postfix-calculator/stack-and-postfix-demo.cpp"
+"hw6_2026\hw6_2026\evaluate.hpp","Selected","06-queues-word-counts-and-stacks/stack-and-postfix-calculator/Stack.hpp"
+"hw6_2026\hw6_2026\evaluateRPN.h","Selected","06-queues-word-counts-and-stacks/stack-and-postfix-calculator/evaluateRPN.h"
+"hw6_2026\hw6_2026\evaluateRPN.hpp","Selected","06-queues-word-counts-and-stacks/stack-and-postfix-calculator/evaluateRPN.hpp"
+"hw6_2026\hw6_2026\Stack.h","Selected","06-queues-word-counts-and-stacks/stack-and-postfix-calculator/Stack.h"
+"hw6_2026\hw6_2026\Stack.hpp","Omitted: exact duplicate",
+"Project1\Project1\Source.cpp","Selected","practice-and-drafts/loan-payment-calculator-draft/loan-payment-calculator-draft.cpp"
+"quiz 1\quiz 1\testMerge.cpp","Selected","practice-and-drafts/merge-intervals-test-driver/merge-intervals-test-driver.cpp"
+"quiz4cop4530\quiz4cop4530\Source.cpp","Omitted: empty",
